@@ -1,0 +1,51 @@
+All program must follow object oriented approach and code must be reusable.
+Attach output of each program below the program to show the execution.
+
+# Stacks and Queues
+1. Write a program to implement stack from scratch in python using array.
+2. Write a program in python to implement stack using python list.
+3. Write a program for Bracket Matching using using above creted Stack.
+4. Write a program in python to implement Infix to Postfix conversion using Stack implemented above. 
+5. Write a program in python to evluate postfix expression obtained from above implementation.
+6. Implement a queue using array in python. 
+7. Implement a priority queue using array in python. 
+
+# Linked List
+1. Write a program to show the implementation of Linked List in python. 
+2. Write the implementation of Singly Linked Lists to show creation, traversal, insertion, retrieval and deletion of elements. 
+3. Write a program to implement the Doubly Linked List. 
+4. Write a program to implement Circular Lists. 
+5. Show the implementation of stack and queue using the Linked List created above. 
+
+# Trees
+1. Write a program to implement tree data structure in python. User must be able to insert and retrieve data from tree. 
+2. Implement BFS for value retrieval from tree in python.
+3. Implement DFS for value retrieval from tree in python.
+4. Write a program in python to implement Binary Search tree. 
+5. Implement AVL Tree in python. 
+6. Write a program to implement Heap data structure in python. 
+7. Write a program to implement priority queue using heap data structure in python.
+
+# Searching
+1. Write a program to show the implementation of sequential Search. 
+2. Write the implementation of Binary Search in Python. 
+3. Show the basic implementation of Hashing in python 
+4. Write a program to show linear, quadratic probing and double hashing in python.
+5. Write a program to implement Separate Chaining in python. 
+
+# Sorting
+1. Write a program to implement
+    a) Bubble Sort
+    b) Insertion Sort
+    c) Selection Sort
+    d) Merge Sort
+    e) Quick Sort
+    f) Heap Sort
+
+# Graphs
+1. Write a program to implement graph traversal using BFS and DFS.
+2. Write a program to implement Kruskal's Algorithm for minimum spanning tree. 
+3. Write a program to implement Prim's Algorithm to illustrate minimum spanning tree.
+
+# Algorithm design
+1. Write a program to show the implementation of dynamic programming in fibonacci series implementation
